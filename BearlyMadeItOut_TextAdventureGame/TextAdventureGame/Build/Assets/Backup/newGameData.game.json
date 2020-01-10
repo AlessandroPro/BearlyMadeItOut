@@ -1,0 +1,766 @@
+{
+    "StartLocation": "Bear Enclosure",
+    "EndLocation": "Outside World",
+    "StartMessage": "Rrhhrrr... I can't bear to be inside here anymore. A zoo? More like a prison. I've been trapped between these enclosure walls since I was just a cub. I miss the wild air, the hills, the open river streams...and big trees in the forest to rub my brown, furry back on. I think it's time I finally break out of here, but the only way out is through the main entrance, which I believe is locked at night. Hmmm...OH LOOK, my feeder left the gate unlocked! I wish I could get out of here right now, but that main entrance gate won't be open until morning, when guests start pouring in. Then there will be too many people around for me to escape stealthily in the morning...unless...I can find a disguise! Maybe I should look around the zoo tonight and find some items to wear so I could hide my bearish looks. Then I'll come back here when I have all I need, GO TO SLEEP, and walk on outta here in the morning, looking just like one of those disgusting humans. I'll probably need stuff to cover the top of my head, my front paws, my back paws, my eyes, and something to cover most of my body...alright...I should start looking before night ends and not waste anymore time...",
+    "EndMessage": "Congratulations! You've reached the end of the game! Nice job escaping the zoo!",
+    "GameObjects": [
+        {
+            "Description": "Another long path. The sea lions seem to be awake to the east. The other directions look like they lead to bigger areas of the zoo.",
+            "Name": "Area 1",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "There is a wide, cobblestone path with benches in the middle. Ah, my flamingo neighbours, I can see them standing all around in their enclosure, over the west fence. The path seems to continue east.",
+            "Name": "Area 2",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "A big square area for guests to walk around. Some mist is pouring in from the surrounding trees. A sign with 'Orangutan' written on it points west. To my north are the lions, and next to them are the elephants. Somehow, they have much bigger enclosures than mine...wow...",
+            "Name": "Area 3",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "The path to the rest of the zoo is blocked here with a gate. I don't think I'll be able to go any further this way tonight, but there is a small spot to the north where I can squeeze into the orangutan enclosure. ",
+            "Name": "Area 4",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "I can see another closed off part of the zoo along the cobblestone path. The aviary was that way but there is no chance that I'm going to try and get inside that bird cage. The reptile hall stands within a large building to the east.",
+            "Name": "Area 5",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "Another path for guess to walk along while they enjoy watching us put on fake smiles. Looks like it leads back to the main entrance but I don't think I can go that way. To the east, I can see down into the vast elephant enclosure, and on the opposite side are my favourite friends, the penguins. The reptile hall building is here, but it doesn't have a south entrance door.",
+            "Name": "Area 6",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "There is a big rock, and my den to the side. It's not that big in here...The gate is just south of me, and is unlocked...",
+            "Name": "Bear Enclosure",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "A dry, dusty looking enclosure with a small lake and rocky cliffs along the perimeter. The elephant in here is one big boy, and I can't help but to laugh at his long nose. I'm happy to have a cute snout.",
+            "Name": "Elephant Enclosure",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "These pink feather freaks walked away from me, with scoffing looks...I guess they don't like visitors...but they should really clean up all these feathers...I'm stepping all over them.",
+            "Name": "Flamingo Enclosure",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "There is a lot of weird stuff in here, and it's dark. No clothes that fit me though...maybe I can look at the accessories. Wow, they have stuffed versions of me? Humans like these things?",
+            "Name": "Gift Shop",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "A vast, open, grassy plain surrounds me, and I see a weirdly-shaped but humongous rock formation off to the side. I can't see any lions though...they're probably in a cave somewhere or eating something. Looks like I can jump out on the opposite side of where I came in.",
+            "Name": "Lion Enclosure",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "Wow, what a massive main entrance. The gates to the outside world are right there, but they're shut tight. I'll be back in the morning when they're open. A huge sign stands off to the side, with a small waterfall beneath it. It says 'Welcome to Turrono Zoo! Our animals love it here and you will too!'...okay....sure...There are also some food stands, but they're completely sealed. The gift shop stands to the west, with the security office directly across from it.",
+            "Name": "Main Entrance",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "There is a very tall tree in the center, with lots of ropes and planks. Netting surrounds the space. It looks fun in here, but all of these darn apes are asleep, except for the fattest and hairiest one, sitting on his own. Doesn't even seem to be bothered that I jumped in here.",
+            "Name": "Orangutan Enclosure",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "There are lots of cars and people. The large prison stands behind me now. A forest is across the street, and that's where I'm going. I'll finally be free....",
+            "Name": "Outside World",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "The penguins are all awake, slipping and sliding down the icy slope inside! They don't mind me. Sometimes they sneak out and bring me fish. Cool guys. Pretty generous.",
+            "Name": "Penguin Enclosure",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "A cramped and muggy hall. Looks like my only exit out of here is through the west side door. Along the sides are smaller prisons for lizards, behind thick glass windows. Lighting in here is dim, and it smells. I'm honestly glad to not be living in here...some of the lizards have no arms or legs...oh wait those are snakes.",
+            "Name": "Reptile Hall",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "Oh look, a stream of water and a pool, wish I had that...one day. Looks like the night feeder just finished with these sea lions; they're always hungry for fish...but hey, so am I...",
+            "Name": "Sea Lion Enclosure",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "Description": "It's a small room. There is a guard sleeping in here, but he's much bigger than the others. Probably shouldn't wake him. Many bright screens are on the wall, showing different parts of the zoo. Good thing he's asleep or he could have seen me coming...",
+            "Name": "Security Office",
+            "LocationName": "NO LOCATION",
+            "Type": "Location"
+        },
+        {
+            "ConnectedLocation": "Sea Lion Enclosure",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Jumped over the glass barrier...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "East",
+            "LocationName": "Area 1",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 3",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Walked along the side to stay hidden toward the large open area....",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "North",
+            "LocationName": "Area 1",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Main Entrance",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Slowly stepped down the wide steps...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "South",
+            "LocationName": "Area 1",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 2",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Walked back to my little corner of the zoo...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Area 1",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 1",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Continued down the path...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "East",
+            "LocationName": "Area 2",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Bear Enclosure",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Pushed open the gate and hopped down into my enclosure.",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "North",
+            "LocationName": "Area 2",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Flamingo Enclosure",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Hopped the fence to the west.",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Area 2",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Elephant Enclosure",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Hopped over the barrier and down the ridge...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "East",
+            "LocationName": "Area 3",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Lion Enclosure",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Hopped the fence...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "North",
+            "LocationName": "Area 3",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 1",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Back down the narrow path...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "South",
+            "LocationName": "Area 3",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 4",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Going toward the sign's direction..gotta stay quiet..",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Area 3",
+            "Type": "Direction"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Fountain",
+            "LocationName": "Area 3",
+            "Type": "SmallSpace"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Guard",
+            "LocationName": "Area 3",
+            "Type": "Guard"
+        },
+        {
+            "ConnectedLocation": "Area 3",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Heading back to the square...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "East",
+            "LocationName": "Area 4",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Orangutan Enclosure",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Squirmed through a hole in the netting...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "North",
+            "LocationName": "Area 4",
+            "Type": "Direction"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Trashcan",
+            "LocationName": "Area 4",
+            "Type": "SmallSpace"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Guard",
+            "LocationName": "Area 4",
+            "Type": "Guard"
+        },
+        {
+            "InaccessibleDesc": "",
+            "InaccessMessage": "",
+            "AccessMessage": "",
+            "StartWithoutAccess": false,
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "IsPlaced": true,
+            "Owner": "Guard",
+            "Name": "Boots",
+            "LocationName": "Area 4",
+            "Type": "Clothing"
+        },
+        {
+            "ConnectedLocation": "Reptile Hall",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Pulled open the door with my teeth...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "East",
+            "LocationName": "Area 5",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Lion Enclosure",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Hopped over the fence...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "South",
+            "LocationName": "Area 5",
+            "Type": "Direction"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Hot Dog Stand",
+            "LocationName": "Area 5",
+            "Type": "SmallSpace"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Guard",
+            "LocationName": "Area 5",
+            "Type": "Guard"
+        },
+        {
+            "ConnectedLocation": "Penguin Enclosure",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Hopped over the glass barricade...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "East",
+            "LocationName": "Area 6",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Reptile Hall",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Jumped up onto the dumpster and through the hidden window...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "North",
+            "LocationName": "Area 6",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 3",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Swept under the rope and carefully stepped down on the rocks along the small cliff...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Area 6",
+            "Type": "Direction"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "dumpster",
+            "LocationName": "Area 6",
+            "Type": "SmallSpace"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Guard",
+            "LocationName": "Area 6",
+            "Type": "Guard"
+        },
+        {
+            "InaccessibleDesc": "",
+            "InaccessMessage": "",
+            "AccessMessage": "",
+            "StartWithoutAccess": false,
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "IsPlaced": true,
+            "Owner": "Guard",
+            "Name": "Key Card",
+            "LocationName": "Area 6",
+            "Type": "Item"
+        },
+        {
+            "ConnectedLocation": "Area 2",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Pulled open the gate and climbed up and outside of my enclosure.",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "South",
+            "LocationName": "Bear Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Outside World",
+            "BlockedDesc": "I shouldn't go to sleep until I have everything I need for my disguise. I need stuff to cover the top of my head, my front paws, my back paws, my eyes, and something to cover most of my body.",
+            "BlockMessage": "",
+            "UnblockedDesc": "...going to sleep....It's now the morning. Standing up on my hind legs with my disguise on, I snuck out again through the gate. Somehow it's still open. Guests are already here. They are giving me funny looks. \"That's a hairy man!\" I heard some girl say. There it is, the entrance! Almost there....and...I'm out!",
+            "UnblockMessage": "I have what I need for my disguise!",
+            "PlayerCheckList": "boots, fedora, rubber gloves, trench coat, sunglasses",
+            "LocCheckList": "",
+            "StartBlocked": true,
+            "Name": "To Sleep",
+            "LocationName": "Bear Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 6",
+            "BlockedDesc": "The elephant is sitting in front of the only way that I can jump up and out onto the east path. Gotta get him to move...perhaps I can scare him with something...",
+            "BlockMessage": "The elephant sat down in front of the small ledge.",
+            "UnblockedDesc": "Jumped up onto the single small ledge, and up onto the path...",
+            "UnblockMessage": "The elephant jumped up in fear, and stomped to the other side of the enclosure.",
+            "PlayerCheckList": "",
+            "LocCheckList": "mouse",
+            "StartBlocked": true,
+            "Name": "East",
+            "LocationName": "Elephant Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 3",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Jumped up and out...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Elephant Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 2",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Jumed over the fence...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "East",
+            "LocationName": "Flamingo Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "large pile of feathers",
+            "LocationName": "Flamingo Enclosure",
+            "Type": "SmallSpace"
+        },
+        {
+            "InaccessibleDesc": "",
+            "InaccessMessage": "",
+            "AccessMessage": "",
+            "StartWithoutAccess": false,
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "IsPlaced": true,
+            "Owner": "SmallSpace",
+            "Name": "Crowbar",
+            "LocationName": "Flamingo Enclosure",
+            "Type": "Item"
+        },
+        {
+            "ConnectedLocation": "Main Entrance",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Swung open the broken door...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "East",
+            "LocationName": "Gift Shop",
+            "Type": "Direction"
+        },
+        {
+            "InaccessibleDesc": "",
+            "InaccessMessage": "",
+            "AccessMessage": "",
+            "StartWithoutAccess": false,
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "IsPlaced": true,
+            "Owner": "Location",
+            "Name": "Sunglasses",
+            "LocationName": "Gift Shop",
+            "Type": "Clothing"
+        },
+        {
+            "ConnectedLocation": "Area 5",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Leaped over the barricade...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "North",
+            "LocationName": "Lion Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 3",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Climbed over the side...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "South",
+            "LocationName": "Lion Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Security Office",
+            "BlockedDesc": "The door to the security office is locked. Perhaps I can find something to unlock it...",
+            "BlockMessage": "Security Door locked.",
+            "UnblockedDesc": "Pushed down on the handle and silently pushed open the door.",
+            "UnblockMessage": "Put the key card into the security door's card slot. Door is unlocked.",
+            "PlayerCheckList": "key card",
+            "LocCheckList": "",
+            "StartBlocked": true,
+            "Name": "East",
+            "LocationName": "Main Entrance",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Area 1",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Quietly walked up the wide stairs along their side...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "North",
+            "LocationName": "Main Entrance",
+            "Type": "Direction"
+        },
+        {
+            "ConnectedLocation": "Gift Shop",
+            "BlockedDesc": "The door to the gift shop is tightly sealed, but I may be able to prop it open.",
+            "BlockMessage": "The door to the gift shop is locked.",
+            "UnblockedDesc": "Slowly pushed open the broken door. It's dangling on its hinges...",
+            "UnblockMessage": "Used the crowbar to prop open the door to the gift shop.",
+            "PlayerCheckList": "crowbar",
+            "LocCheckList": "",
+            "StartBlocked": true,
+            "Name": "West",
+            "LocationName": "Main Entrance",
+            "Type": "Direction"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "fruit stand",
+            "LocationName": "Main Entrance",
+            "Type": "SmallSpace"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Guard",
+            "LocationName": "Main Entrance",
+            "Type": "Guard"
+        },
+        {
+            "InaccessibleDesc": "",
+            "InaccessMessage": "",
+            "AccessMessage": "",
+            "StartWithoutAccess": false,
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "IsPlaced": true,
+            "Owner": "SmallSpace",
+            "Name": "Banana",
+            "LocationName": "Main Entrance",
+            "Type": "Item"
+        },
+        {
+            "ConnectedLocation": "Area 4",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Squeezed back through the netting...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "South",
+            "LocationName": "Orangutan Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "InaccessibleDesc": "The orangutan keeps picking up and wearing the fedora. He gives me smug, dirty looks when I try to reach for it. Maybe I can bribe him.",
+            "InaccessMessage": "Can't reach the fedora",
+            "AccessMessage": "The orangutan smiled and moved away from the fedora. He took the banana over to his food pile and went back to sitting and eating some other food.",
+            "StartWithoutAccess": true,
+            "PlayerCheckList": "",
+            "LocCheckList": "banana",
+            "IsPlaced": true,
+            "Owner": "Location",
+            "Name": "Fedora",
+            "LocationName": "Orangutan Enclosure",
+            "Type": "Clothing"
+        },
+        {
+            "ConnectedLocation": "Area 6",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Jumped over the glass...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Penguin Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "InaccessibleDesc": "It's too icy to reach the bucket of fish...I need something to give me more grip on my hind legs...",
+            "InaccessMessage": "Can't access fish bucket.",
+            "AccessMessage": "Used my boots to climb up the icy hill and nudged the bucket. It slid down the hill and came to safe stop, still full of yummy fish.",
+            "StartWithoutAccess": true,
+            "PlayerCheckList": "boots",
+            "LocCheckList": "",
+            "IsPlaced": true,
+            "Owner": "Location",
+            "Name": "Bucket of Fish",
+            "LocationName": "Penguin Enclosure",
+            "Type": "Item"
+        },
+        {
+            "ConnectedLocation": "Area 5",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Opened the door to the outside...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Reptile Hall",
+            "Type": "Direction"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "trashcan",
+            "LocationName": "Reptile Hall",
+            "Type": "SmallSpace"
+        },
+        {
+            "InaccessibleDesc": "",
+            "InaccessMessage": "",
+            "AccessMessage": "",
+            "StartWithoutAccess": false,
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "IsPlaced": true,
+            "Owner": "SmallSpace",
+            "Name": "Mouse",
+            "LocationName": "Reptile Hall",
+            "Type": "Item"
+        },
+        {
+            "ConnectedLocation": "Area 1",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Leaped up onto a rocky edge and out...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Sea Lion Enclosure",
+            "Type": "Direction"
+        },
+        {
+            "InaccessibleDesc": "The annoying sea lions started barking at me as I tried to reach for the gloves. If I take them, they won't shut up because they they know those gloves are used to feed them..but they could alert the guards with all that noise...maybe I could give them something to keep them occupied so they won't see me.",
+            "InaccessMessage": "Can't access the bucket of fish.",
+            "AccessMessage": "The sea lions clapped and waddled their way over to the bucket of fish, digging in and eating like they've never seen fish before. After eating, they dove into the water.",
+            "StartWithoutAccess": true,
+            "PlayerCheckList": "",
+            "LocCheckList": "bucket of fish",
+            "IsPlaced": true,
+            "Owner": "Location",
+            "Name": "Rubber Gloves",
+            "LocationName": "Sea Lion Enclosure",
+            "Type": "Clothing"
+        },
+        {
+            "ConnectedLocation": "Main Entrance",
+            "BlockedDesc": "",
+            "BlockMessage": "",
+            "UnblockedDesc": "Pushed open the door...",
+            "UnblockMessage": "",
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "StartBlocked": false,
+            "Name": "West",
+            "LocationName": "Security Office",
+            "Type": "Direction"
+        },
+        {
+            "IsPlaced": true,
+            "Name": "Locker",
+            "LocationName": "Security Office",
+            "Type": "SmallSpace"
+        },
+        {
+            "InaccessibleDesc": "",
+            "InaccessMessage": "",
+            "AccessMessage": "",
+            "StartWithoutAccess": false,
+            "PlayerCheckList": "",
+            "LocCheckList": "",
+            "IsPlaced": true,
+            "Owner": "SmallSpace",
+            "Name": "Trench Coat",
+            "LocationName": "Security Office",
+            "Type": "Clothing"
+        }
+    ]
+}

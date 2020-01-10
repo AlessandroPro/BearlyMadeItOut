@@ -1,0 +1,261 @@
+{
+  "GameObjects" : [{
+      "IsBlocked" : false,
+      "LocationName" : "Area 1",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 1",
+      "Name" : "North",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 1",
+      "Name" : "South",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 1",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 2",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 2",
+      "Name" : "North",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 2",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 3",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 3",
+      "Name" : "North",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 3",
+      "Name" : "South",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 3",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsConscious" : false,
+      "IsHidden" : false,
+      "LocationName" : "Area 3",
+      "Type" : "Guard"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 4",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 4",
+      "Name" : "North",
+      "Type" : "Direction"
+    }, {
+      "IsConscious" : true,
+      "IsHidden" : false,
+      "LocationName" : "Area 4",
+      "Type" : "Guard"
+    }, {
+      "IsAccessible" : true,
+      "LocationName" : "Area 4",
+      "Name" : "Boots",
+      "Owner" : "GUARD",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 5",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 5",
+      "Name" : "South",
+      "Type" : "Direction"
+    }, {
+      "IsConscious" : true,
+      "IsHidden" : false,
+      "LocationName" : "Area 5",
+      "Type" : "Guard"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 6",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 6",
+      "Name" : "North",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Area 6",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsConscious" : true,
+      "IsHidden" : false,
+      "LocationName" : "Area 6",
+      "Type" : "Guard"
+    }, {
+      "IsAccessible" : true,
+      "LocationName" : "Area 6",
+      "Name" : "Key Card",
+      "Owner" : "GUARD",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Bear Enclosure",
+      "Name" : "South",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : true,
+      "LocationName" : "Bear Enclosure",
+      "Name" : "To Sleep",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : true,
+      "LocationName" : "Elephant Enclosure",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Elephant Enclosure",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Flamingo Enclosure",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsAccessible" : true,
+      "LocationName" : "Flamingo Enclosure",
+      "Name" : "Crowbar",
+      "Owner" : "SMALLSPACE",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Gift Shop",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsAccessible" : true,
+      "LocationName" : "Gift Shop",
+      "Name" : "Sunglasses",
+      "Owner" : "LOCATION",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Lion Enclosure",
+      "Name" : "North",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Lion Enclosure",
+      "Name" : "South",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : true,
+      "LocationName" : "Main Entrance",
+      "Name" : "East",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Main Entrance",
+      "Name" : "North",
+      "Type" : "Direction"
+    }, {
+      "IsBlocked" : true,
+      "LocationName" : "Main Entrance",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsConscious" : true,
+      "IsHidden" : false,
+      "LocationName" : "Main Entrance",
+      "Type" : "Guard"
+    }, {
+      "IsAccessible" : true,
+      "LocationName" : "Main Entrance",
+      "Name" : "Banana",
+      "Owner" : "SMALLSPACE",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Orangutan Enclosure",
+      "Name" : "South",
+      "Type" : "Direction"
+    }, {
+      "IsAccessible" : false,
+      "LocationName" : "Orangutan Enclosure",
+      "Name" : "Fedora",
+      "Owner" : "LOCATION",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Penguin Enclosure",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsAccessible" : false,
+      "LocationName" : "Penguin Enclosure",
+      "Name" : "Bucket of Fish",
+      "Owner" : "LOCATION",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Reptile Hall",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsAccessible" : true,
+      "LocationName" : "Reptile Hall",
+      "Name" : "Mouse",
+      "Owner" : "SMALLSPACE",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Sea Lion Enclosure",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsAccessible" : false,
+      "LocationName" : "Sea Lion Enclosure",
+      "Name" : "Rubber Gloves",
+      "Owner" : "LOCATION",
+      "Type" : "Item"
+    }, {
+      "IsBlocked" : false,
+      "LocationName" : "Security Office",
+      "Name" : "West",
+      "Type" : "Direction"
+    }, {
+      "IsAccessible" : true,
+      "LocationName" : "Security Office",
+      "Name" : "Trench Coat",
+      "Owner" : "SMALLSPACE",
+      "Type" : "Item"
+    }, {
+      "LocationName" : "Area 3",
+      "Type" : "Player"
+    }]
+}

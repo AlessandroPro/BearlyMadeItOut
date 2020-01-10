@@ -1,0 +1,19 @@
+﻿  Clothing.cpp
+  DatabaseManager.cpp
+  Direction.cpp
+  FileManager.cpp
+  GameEngine.cpp
+  GameManager.cpp
+  GameObject.cpp
+  Guard.cpp
+  InputManager.cpp
+  Item.cpp
+  ItemCheck.cpp
+  json.cpp
+  Location.cpp
+  main.cpp
+  Player.cpp
+  SmallSpace.cpp
+  Generating Code...
+  sqlite3.c
+  TextAdventureGame.vcxproj -> C:\Users\Alessandro\Documents\SHERIDAN\Github\BearlyMadeItOut\BearlyMadeItOut_TextAdventureGame\TextAdventureGame\Build\bin\TextAdventureGame-Debug-x64.exe
