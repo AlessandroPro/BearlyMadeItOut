@@ -2,7 +2,8 @@
 ## Text-Based Adventure Game
 
 There are two projects included in this repo: <br>
-A C++ text-based adventure game, and a small C# winform application for visualizing in-game stats recorded while playing the game.
+* A C++ text-based adventure game, and 
+* A small C# winform application for visualizing in-game stats recorded while playing the game
 
 All relevant C++ code for the game is included in BearlyMadeItOut_TextAdventureGame/TextAdventureGame/TextAdventureGame/. <br>
 All relevant C# code for the data visualizer is included in GameDataAnalysisTool/GameDataAnalysisTool/.
