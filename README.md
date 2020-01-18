@@ -54,7 +54,7 @@ Save -> saves game <br>
 Load -> loads game save file <br>
 Q -> quits game <br>
 
-Game Map:
+### Game Map:
 ![GameMap](https://user-images.githubusercontent.com/15040875/72189951-3bedb300-33cc-11ea-8399-5bbfc13491ae.PNG)
 
 More screenshots of the game:
